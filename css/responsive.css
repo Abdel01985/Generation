@@ -132,6 +132,11 @@
 		line-height:225px;
 	}
 }
+@media (max-width:750px){
+	.tg-logo {
+		width: 100px;
+		height:auto;
+	}
 @media (max-width:991px){
 	.tg-logo {
 		width: 150px;
