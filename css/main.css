@@ -979,7 +979,7 @@ address { font-style: italic; }
 	padding:0 10px;
 	border-color:#aeaeae;
 }
-.tg-tags-widget ul li .tg-btn:hover{color:#373542;}
+.tg-tags-widget ul li .tg-btn:hover{color:#354238;}
 .tg-tags-widget ul li .tg-btn:after{display:none;}
 /*=============================================
 			Theme Style
@@ -1390,7 +1390,7 @@ address { font-style: italic; }
 	content:'';
 	height:1px;
 	width:9999px;
-	background:#aeaeae;
+	background:#5580f3;
 	position:absolute;
 }
 .tg-navigation .tg-colhalf:first-child:after{right:70px;}
@@ -1417,7 +1417,7 @@ address { font-style: italic; }
 	top:1px;
 	width:0;
 	height:1px;
-	background:#aeaeae;
+	background:#efc303;
 }
 .tg-navigation ul li.active:after,
 .tg-navigation ul li:hover:after{width:100%;}
